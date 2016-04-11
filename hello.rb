@@ -1,3 +1,3 @@
 name = "Dave"
 
-puts "Hello " + name + "!"
+puts "Hello #{name}!"
